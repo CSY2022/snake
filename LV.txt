@@ -1,2 +1,2 @@
 1.0.1
-https://github.com/CSY2022/tcs/blob/v1.0.1/%E8%B4%AA%E5%90%83%E8%9B%8732%E4%BD%8Dv1.0.1.exe
+https://raw.githubusercontent.com/CSY2022/tcs/v1.0.1/%E8%B4%AA%E5%90%83%E8%9B%8732%E4%BD%8Dv1.0.1.exe
